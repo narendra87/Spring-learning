@@ -1,4 +1,4 @@
-package com.sap.demo;
+package com.sap.basicspringconcepts;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

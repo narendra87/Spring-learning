@@ -1,4 +1,4 @@
-package com.sap.demo;
+package com.sap.basicspringconcepts;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
